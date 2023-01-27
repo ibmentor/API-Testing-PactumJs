@@ -1,0 +1,14 @@
+{
+    "User": {
+    "name": "$M{User.name}",
+    "job": "$M{User.job}",
+    "test":"testing"
+  },
+  "User1": {
+    "name": "$M{User.name}",
+    "job": "$M{User.job}",
+    "test":"testing",
+    "status":"$M{User.status}"
+  }
+
+}
